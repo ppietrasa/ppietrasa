@@ -11,7 +11,7 @@ I have grown alongside the industry, and my toolkit reflects that journey:
 Java for desktop applications, C for payment terminals, Python for internal tooling,
 Docker and Podman for containers, Proxmox and NixOS for hosting services at home.
 
-Today, I'm most comfortable in the complexities of the build process: CMake,
+Today, I'm most comfortable with the complexities of the build process: CMake,
 packaging, and Jenkins pipelines.
 
 As LLMs increasingly change how software is made, I’m learning, adapting and
