@@ -5,16 +5,17 @@ Build & Release Engineer | DevOps
 ## Who I am
 
 I have been immersed in computing since the ZX Spectrum era. I started as a kid
-with BASIC on a Timex Computer and have evolved alongside the industry.
+with BASIC on a Timex Computer, then got my first PC and learned Turbo Pascal.
 
-My toolkit is a map of that journey: Turbo Pascal for simple games, Java for
-desktop applications, C for payment terminals, and Python for internal tooling.
+I have grown alongside the industry, and my toolkit reflects that journey:
+Java for desktop applications, C for payment terminals, Python for internal tooling,
+Docker and Podman for containers, Proxmox and NixOS for hosting services at home.
 
 Today, I'm most comfortable in the complexities of the build process: CMake,
 packaging, and Jenkins pipelines.
 
-As LLMs increasingly change how software is made, I’m figuring out where my
-experience and curiosity fit.
+As LLMs increasingly change how software is made, I’m learning, adapting and
+exploring where my experience can cotribute next.
 
 <!--
 **ppietrasa/ppietrasa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
