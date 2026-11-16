@@ -7,7 +7,7 @@ Build & Release Engineer | DevOps
 I have been immersed in computing since the ZX Spectrum era. I started as a kid
 with BASIC on a Timex Computer, then got my first PC and learned Turbo Pascal.
 
-I have grown alongside the industry, and my toolkit reflects that journey:
+Since then, I have grown alongside the industry, and my toolkit reflects that journey:
 Java for desktop applications, C for payment terminals, Python for internal tooling,
 Docker and Podman for containers, Proxmox and NixOS for hosting services at home.
 
